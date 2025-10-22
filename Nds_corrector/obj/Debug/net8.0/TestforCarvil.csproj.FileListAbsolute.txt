@@ -1,0 +1,14 @@
+C:\Users\extri\RiderProjects\TestforCarvil\TestforCarvil\obj\Debug\net8.0\TestforCarvil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\extri\RiderProjects\TestforCarvil\TestforCarvil\obj\Debug\net8.0\TestforCarvil.AssemblyInfoInputs.cache
+C:\Users\extri\RiderProjects\TestforCarvil\TestforCarvil\obj\Debug\net8.0\TestforCarvil.AssemblyInfo.cs
+C:\Users\extri\RiderProjects\TestforCarvil\TestforCarvil\obj\Debug\net8.0\TestforCarvil.csproj.CoreCompileInputs.cache
+C:\Users\extri\RiderProjects\TestforCarvil\TestforCarvil\bin\Debug\net8.0\TestforCarvil.exe
+C:\Users\extri\RiderProjects\TestforCarvil\TestforCarvil\bin\Debug\net8.0\TestforCarvil.deps.json
+C:\Users\extri\RiderProjects\TestforCarvil\TestforCarvil\bin\Debug\net8.0\TestforCarvil.runtimeconfig.json
+C:\Users\extri\RiderProjects\TestforCarvil\TestforCarvil\bin\Debug\net8.0\TestforCarvil.dll
+C:\Users\extri\RiderProjects\TestforCarvil\TestforCarvil\bin\Debug\net8.0\TestforCarvil.pdb
+C:\Users\extri\RiderProjects\TestforCarvil\TestforCarvil\obj\Debug\net8.0\TestforCarvil.dll
+C:\Users\extri\RiderProjects\TestforCarvil\TestforCarvil\obj\Debug\net8.0\refint\TestforCarvil.dll
+C:\Users\extri\RiderProjects\TestforCarvil\TestforCarvil\obj\Debug\net8.0\TestforCarvil.pdb
+C:\Users\extri\RiderProjects\TestforCarvil\TestforCarvil\obj\Debug\net8.0\TestforCarvil.genruntimeconfig.cache
+C:\Users\extri\RiderProjects\TestforCarvil\TestforCarvil\obj\Debug\net8.0\ref\TestforCarvil.dll

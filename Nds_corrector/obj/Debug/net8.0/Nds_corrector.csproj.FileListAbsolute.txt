@@ -1,0 +1,14 @@
+C:\Users\extri\RiderProjects\TestforCarvil\Nds_corrector\bin\Debug\net8.0\Nds_corrector.exe
+C:\Users\extri\RiderProjects\TestforCarvil\Nds_corrector\bin\Debug\net8.0\Nds_corrector.deps.json
+C:\Users\extri\RiderProjects\TestforCarvil\Nds_corrector\bin\Debug\net8.0\Nds_corrector.runtimeconfig.json
+C:\Users\extri\RiderProjects\TestforCarvil\Nds_corrector\bin\Debug\net8.0\Nds_corrector.dll
+C:\Users\extri\RiderProjects\TestforCarvil\Nds_corrector\bin\Debug\net8.0\Nds_corrector.pdb
+C:\Users\extri\RiderProjects\TestforCarvil\Nds_corrector\obj\Debug\net8.0\Nds_corrector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\extri\RiderProjects\TestforCarvil\Nds_corrector\obj\Debug\net8.0\Nds_corrector.AssemblyInfoInputs.cache
+C:\Users\extri\RiderProjects\TestforCarvil\Nds_corrector\obj\Debug\net8.0\Nds_corrector.AssemblyInfo.cs
+C:\Users\extri\RiderProjects\TestforCarvil\Nds_corrector\obj\Debug\net8.0\Nds_corrector.csproj.CoreCompileInputs.cache
+C:\Users\extri\RiderProjects\TestforCarvil\Nds_corrector\obj\Debug\net8.0\Nds_corrector.dll
+C:\Users\extri\RiderProjects\TestforCarvil\Nds_corrector\obj\Debug\net8.0\refint\Nds_corrector.dll
+C:\Users\extri\RiderProjects\TestforCarvil\Nds_corrector\obj\Debug\net8.0\Nds_corrector.pdb
+C:\Users\extri\RiderProjects\TestforCarvil\Nds_corrector\obj\Debug\net8.0\Nds_corrector.genruntimeconfig.cache
+C:\Users\extri\RiderProjects\TestforCarvil\Nds_corrector\obj\Debug\net8.0\ref\Nds_corrector.dll

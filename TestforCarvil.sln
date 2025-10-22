@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nds_corrector", "Nds_corrector\Nds_corrector.csproj", "{35504004-0B93-4ED6-A613-FA16122AECDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35504004-0B93-4ED6-A613-FA16122AECDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35504004-0B93-4ED6-A613-FA16122AECDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35504004-0B93-4ED6-A613-FA16122AECDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35504004-0B93-4ED6-A613-FA16122AECDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

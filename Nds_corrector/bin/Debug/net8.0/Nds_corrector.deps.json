@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Nds_corrector/1.0.0": {
+        "runtime": {
+          "Nds_corrector.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Nds_corrector/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
